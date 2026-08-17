@@ -1,4 +1,4 @@
-package com.example.flutter_mysecond_project
+package com.example.flutter_starter_project
 
 import io.flutter.embedding.android.FlutterActivity
 
